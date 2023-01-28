@@ -8,7 +8,7 @@ Install Neptune with GitHub
 ### Make sure you already have PHP>=7.4 installed on your machine
 
 ```bash
-git clone https://github.com/BlakvGhost/Neptune.git
+git clone https://github.com/FuturaVision/Neptune.git
 ```
 
 Host the project on a local server for your test, or host it on a shared hosting service or a VPS.
